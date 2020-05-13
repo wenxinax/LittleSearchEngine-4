@@ -1,6 +1,8 @@
 # LittleSearchEngine
 Your very own Little Search Engine
 
+-------------------CODED IN JAVA----------------
+
 This is a program reads a file that contains all the documents that are to be scanned and then performs a search that returns the top 5 entries based on 2 keywords
 
 
